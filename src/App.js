@@ -12,6 +12,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <p>This will be deployed by netlify</p>
+          <p>When I force push a change in the first PR</p>
           <a
             className="App-link"
             href="https://reactjs.org"
